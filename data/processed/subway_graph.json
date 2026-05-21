@@ -1,0 +1,852 @@
+{
+  "Finch": [
+    {
+      "to": "North York Centre",
+      "line": "Line 1",
+      "travelMinutes": 2.8
+    }
+  ],
+  "North York Centre": [
+    {
+      "to": "Finch",
+      "line": "Line 1",
+      "travelMinutes": 2.8
+    },
+    {
+      "to": "Sheppard-Yonge",
+      "line": "Line 1",
+      "travelMinutes": 1.1
+    }
+  ],
+  "Sheppard-Yonge": [
+    {
+      "to": "North York Centre",
+      "line": "Line 1",
+      "travelMinutes": 1.1
+    },
+    {
+      "to": "York Mills",
+      "line": "Line 1",
+      "travelMinutes": 3.3
+    },
+    {
+      "to": "Bayview",
+      "line": "Line 4",
+      "travelMinutes": 3.0
+    }
+  ],
+  "York Mills": [
+    {
+      "to": "Sheppard-Yonge",
+      "line": "Line 1",
+      "travelMinutes": 3.3
+    },
+    {
+      "to": "Lawrence",
+      "line": "Line 1",
+      "travelMinutes": 2.8
+    }
+  ],
+  "Lawrence": [
+    {
+      "to": "York Mills",
+      "line": "Line 1",
+      "travelMinutes": 2.8
+    },
+    {
+      "to": "Eglinton",
+      "line": "Line 1",
+      "travelMinutes": 3.2
+    }
+  ],
+  "Eglinton": [
+    {
+      "to": "Lawrence",
+      "line": "Line 1",
+      "travelMinutes": 3.2
+    },
+    {
+      "to": "Davisville",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Davisville": [
+    {
+      "to": "Eglinton",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "St Clair",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "St Clair": [
+    {
+      "to": "Davisville",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Summerhill",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Summerhill": [
+    {
+      "to": "St Clair",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Rosedale",
+      "line": "Line 1",
+      "travelMinutes": 1.6
+    }
+  ],
+  "Rosedale": [
+    {
+      "to": "Summerhill",
+      "line": "Line 1",
+      "travelMinutes": 1.6
+    },
+    {
+      "to": "Bloor-Yonge",
+      "line": "Line 1",
+      "travelMinutes": 1.6
+    }
+  ],
+  "Bloor-Yonge": [
+    {
+      "to": "Rosedale",
+      "line": "Line 1",
+      "travelMinutes": 1.6
+    },
+    {
+      "to": "Wellesley",
+      "line": "Line 1",
+      "travelMinutes": 1.1
+    },
+    {
+      "to": "Bay",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Sherbourne",
+      "line": "Line 2",
+      "travelMinutes": 2.3
+    }
+  ],
+  "Wellesley": [
+    {
+      "to": "Bloor-Yonge",
+      "line": "Line 1",
+      "travelMinutes": 1.1
+    },
+    {
+      "to": "College",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "College": [
+    {
+      "to": "Wellesley",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "TMU",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "TMU": [
+    {
+      "to": "College",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Queen",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Queen": [
+    {
+      "to": "TMU",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "King",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "King": [
+    {
+      "to": "Queen",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Union",
+      "line": "Line 1",
+      "travelMinutes": 1.7
+    }
+  ],
+  "Union": [
+    {
+      "to": "King",
+      "line": "Line 1",
+      "travelMinutes": 1.7
+    },
+    {
+      "to": "St Andrew",
+      "line": "Line 1",
+      "travelMinutes": 1.5
+    }
+  ],
+  "St Andrew": [
+    {
+      "to": "Union",
+      "line": "Line 1",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Osgoode",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Osgoode": [
+    {
+      "to": "St Andrew",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "St Patrick",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "St Patrick": [
+    {
+      "to": "Osgoode",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Queen's Park",
+      "line": "Line 1",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Queen's Park": [
+    {
+      "to": "St Patrick",
+      "line": "Line 1",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Museum",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Museum": [
+    {
+      "to": "Queen's Park",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "St George",
+      "line": "Line 1",
+      "travelMinutes": 1.3
+    }
+  ],
+  "St George": [
+    {
+      "to": "Museum",
+      "line": "Line 1",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "Spadina",
+      "line": "Line 1",
+      "travelMinutes": 1.2
+    },
+    {
+      "to": "Spadina",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Bay",
+      "line": "Line 2",
+      "travelMinutes": 1.9
+    }
+  ],
+  "Spadina": [
+    {
+      "to": "St George",
+      "line": "Line 1",
+      "travelMinutes": 1.2
+    },
+    {
+      "to": "Dupont",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Bathurst",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "St George",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Dupont": [
+    {
+      "to": "Spadina",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "St Clair West",
+      "line": "Line 1",
+      "travelMinutes": 3.0
+    }
+  ],
+  "St Clair West": [
+    {
+      "to": "Dupont",
+      "line": "Line 1",
+      "travelMinutes": 3.0
+    },
+    {
+      "to": "Cedarvale",
+      "line": "Line 1",
+      "travelMinutes": 4.3
+    }
+  ],
+  "Cedarvale": [
+    {
+      "to": "St Clair West",
+      "line": "Line 1",
+      "travelMinutes": 4.3
+    },
+    {
+      "to": "Glencairn",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Glencairn": [
+    {
+      "to": "Cedarvale",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Lawrence West",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Lawrence West": [
+    {
+      "to": "Glencairn",
+      "line": "Line 1",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Yorkdale",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Yorkdale": [
+    {
+      "to": "Lawrence West",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Wilson",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Wilson": [
+    {
+      "to": "Yorkdale",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Sheppard West",
+      "line": "Line 1",
+      "travelMinutes": 3.3
+    }
+  ],
+  "Sheppard West": [
+    {
+      "to": "Wilson",
+      "line": "Line 1",
+      "travelMinutes": 3.3
+    },
+    {
+      "to": "Downsview Park",
+      "line": "Line 1",
+      "travelMinutes": 2.2
+    }
+  ],
+  "Downsview Park": [
+    {
+      "to": "Sheppard West",
+      "line": "Line 1",
+      "travelMinutes": 2.2
+    },
+    {
+      "to": "Finch West",
+      "line": "Line 1",
+      "travelMinutes": 3.0
+    }
+  ],
+  "Finch West": [
+    {
+      "to": "Downsview Park",
+      "line": "Line 1",
+      "travelMinutes": 3.0
+    },
+    {
+      "to": "York University",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "York University": [
+    {
+      "to": "Finch West",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Pioneer Village",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Pioneer Village": [
+    {
+      "to": "York University",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Highway 407",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Highway 407": [
+    {
+      "to": "Pioneer Village",
+      "line": "Line 1",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Vaughan Metropolitan Centre",
+      "line": "Line 1",
+      "travelMinutes": 2.7
+    }
+  ],
+  "Vaughan Metropolitan Centre": [
+    {
+      "to": "Highway 407",
+      "line": "Line 1",
+      "travelMinutes": 2.7
+    }
+  ],
+  "Greenwood": [
+    {
+      "to": "Coxwell",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "Donlands",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Coxwell": [
+    {
+      "to": "Greenwood",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "Woodbine",
+      "line": "Line 2",
+      "travelMinutes": 1.6
+    }
+  ],
+  "Woodbine": [
+    {
+      "to": "Coxwell",
+      "line": "Line 2",
+      "travelMinutes": 1.6
+    },
+    {
+      "to": "Main Street",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    }
+  ],
+  "Main Street": [
+    {
+      "to": "Woodbine",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "Victoria Park",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Victoria Park": [
+    {
+      "to": "Main Street",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Warden",
+      "line": "Line 2",
+      "travelMinutes": 3.1
+    }
+  ],
+  "Warden": [
+    {
+      "to": "Victoria Park",
+      "line": "Line 2",
+      "travelMinutes": 3.1
+    },
+    {
+      "to": "Kennedy",
+      "line": "Line 2",
+      "travelMinutes": 3.9
+    }
+  ],
+  "Kennedy": [
+    {
+      "to": "Warden",
+      "line": "Line 2",
+      "travelMinutes": 3.9
+    }
+  ],
+  "Kipling": [
+    {
+      "to": "Islington",
+      "line": "Line 2",
+      "travelMinutes": 2.4
+    }
+  ],
+  "Islington": [
+    {
+      "to": "Kipling",
+      "line": "Line 2",
+      "travelMinutes": 2.4
+    },
+    {
+      "to": "Royal York",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Royal York": [
+    {
+      "to": "Islington",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Old Mill",
+      "line": "Line 2",
+      "travelMinutes": 2.1
+    }
+  ],
+  "Old Mill": [
+    {
+      "to": "Royal York",
+      "line": "Line 2",
+      "travelMinutes": 2.1
+    },
+    {
+      "to": "Jane",
+      "line": "Line 2",
+      "travelMinutes": 1.9
+    }
+  ],
+  "Jane": [
+    {
+      "to": "Old Mill",
+      "line": "Line 2",
+      "travelMinutes": 1.9
+    },
+    {
+      "to": "Runnymede",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Runnymede": [
+    {
+      "to": "Jane",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "High Park",
+      "line": "Line 2",
+      "travelMinutes": 1.2
+    }
+  ],
+  "High Park": [
+    {
+      "to": "Runnymede",
+      "line": "Line 2",
+      "travelMinutes": 1.2
+    },
+    {
+      "to": "Keele",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    }
+  ],
+  "Keele": [
+    {
+      "to": "High Park",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    },
+    {
+      "to": "Dundas West",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Dundas West": [
+    {
+      "to": "Keele",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Lansdowne",
+      "line": "Line 2",
+      "travelMinutes": 1.7
+    }
+  ],
+  "Lansdowne": [
+    {
+      "to": "Dundas West",
+      "line": "Line 2",
+      "travelMinutes": 1.7
+    },
+    {
+      "to": "Dufferin",
+      "line": "Line 2",
+      "travelMinutes": 1.1
+    }
+  ],
+  "Dufferin": [
+    {
+      "to": "Lansdowne",
+      "line": "Line 2",
+      "travelMinutes": 1.1
+    },
+    {
+      "to": "Ossington",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Ossington": [
+    {
+      "to": "Dufferin",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Christie",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    }
+  ],
+  "Christie": [
+    {
+      "to": "Ossington",
+      "line": "Line 2",
+      "travelMinutes": 2.0
+    },
+    {
+      "to": "Bathurst",
+      "line": "Line 2",
+      "travelMinutes": 1.4
+    }
+  ],
+  "Bathurst": [
+    {
+      "to": "Christie",
+      "line": "Line 2",
+      "travelMinutes": 1.4
+    },
+    {
+      "to": "Spadina",
+      "line": "Line 2",
+      "travelMinutes": 1.3
+    }
+  ],
+  "Bay": [
+    {
+      "to": "St George",
+      "line": "Line 2",
+      "travelMinutes": 1.9
+    },
+    {
+      "to": "Bloor-Yonge",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Sherbourne": [
+    {
+      "to": "Bloor-Yonge",
+      "line": "Line 2",
+      "travelMinutes": 2.3
+    },
+    {
+      "to": "Castle Frank",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Castle Frank": [
+    {
+      "to": "Sherbourne",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Broadview",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Broadview": [
+    {
+      "to": "Castle Frank",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Chester",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Chester": [
+    {
+      "to": "Broadview",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Pape",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Pape": [
+    {
+      "to": "Chester",
+      "line": "Line 2",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Donlands",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Donlands": [
+    {
+      "to": "Pape",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    },
+    {
+      "to": "Greenwood",
+      "line": "Line 2",
+      "travelMinutes": 1.0
+    }
+  ],
+  "Bayview": [
+    {
+      "to": "Sheppard-Yonge",
+      "line": "Line 4",
+      "travelMinutes": 3.0
+    },
+    {
+      "to": "Bessarion",
+      "line": "Line 4",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Bessarion": [
+    {
+      "to": "Bayview",
+      "line": "Line 4",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Leslie",
+      "line": "Line 4",
+      "travelMinutes": 1.5
+    }
+  ],
+  "Leslie": [
+    {
+      "to": "Bessarion",
+      "line": "Line 4",
+      "travelMinutes": 1.5
+    },
+    {
+      "to": "Don Mills",
+      "line": "Line 4",
+      "travelMinutes": 2.5
+    }
+  ],
+  "Don Mills": [
+    {
+      "to": "Leslie",
+      "line": "Line 4",
+      "travelMinutes": 2.5
+    }
+  ]
+}

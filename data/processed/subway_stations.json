@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Bathurst",
+    "lat": 43.665949,
+    "lon": -79.410589
+  },
+  {
+    "name": "Bay",
+    "lat": 43.670149,
+    "lon": -79.390089
+  },
+  {
+    "name": "Bayview",
+    "lat": 43.766872,
+    "lon": -79.386703
+  },
+  {
+    "name": "Bessarion",
+    "lat": 43.769202,
+    "lon": -79.376312
+  },
+  {
+    "name": "Bloor-Yonge",
+    "lat": 43.670049,
+    "lon": -79.385389
+  },
+  {
+    "name": "Broadview",
+    "lat": 43.677049,
+    "lon": -79.358088
+  },
+  {
+    "name": "Castle Frank",
+    "lat": 43.674049,
+    "lon": -79.368088
+  },
+  {
+    "name": "Cedarvale",
+    "lat": 43.700648,
+    "lon": -79.436691
+  },
+  {
+    "name": "Chester",
+    "lat": 43.678241,
+    "lon": -79.352502
+  },
+  {
+    "name": "Christie",
+    "lat": 43.664449,
+    "lon": -79.41729
+  },
+  {
+    "name": "College",
+    "lat": 43.660149,
+    "lon": -79.382688
+  },
+  {
+    "name": "Coxwell",
+    "lat": 43.684549,
+    "lon": -79.321986
+  },
+  {
+    "name": "Davisville",
+    "lat": 43.697048,
+    "lon": -79.39689
+  },
+  {
+    "name": "Don Mills",
+    "lat": 43.775547,
+    "lon": -79.346584
+  },
+  {
+    "name": "Donlands",
+    "lat": 43.681149,
+    "lon": -79.337487
+  },
+  {
+    "name": "Downsview Park",
+    "lat": 43.753311,
+    "lon": -79.478693
+  },
+  {
+    "name": "Dufferin",
+    "lat": 43.660849,
+    "lon": -79.43389
+  },
+  {
+    "name": "Dundas West",
+    "lat": 43.657449,
+    "lon": -79.451091
+  },
+  {
+    "name": "Dupont",
+    "lat": 43.674949,
+    "lon": -79.40709
+  },
+  {
+    "name": "Eglinton",
+    "lat": 43.704648,
+    "lon": -79.39889
+  },
+  {
+    "name": "Finch",
+    "lat": 43.780147,
+    "lon": -79.415692
+  },
+  {
+    "name": "Finch West",
+    "lat": 43.764855,
+    "lon": -79.491118
+  },
+  {
+    "name": "Glencairn",
+    "lat": 43.709148,
+    "lon": -79.440892
+  },
+  {
+    "name": "Greenwood",
+    "lat": 43.682549,
+    "lon": -79.331687
+  },
+  {
+    "name": "High Park",
+    "lat": 43.653849,
+    "lon": -79.466991
+  },
+  {
+    "name": "Highway 407",
+    "lat": 43.783359,
+    "lon": -79.523454
+  },
+  {
+    "name": "Islington",
+    "lat": 43.645548,
+    "lon": -79.523293
+  },
+  {
+    "name": "Jane",
+    "lat": 43.650149,
+    "lon": -79.482892
+  },
+  {
+    "name": "Keele",
+    "lat": 43.655649,
+    "lon": -79.458691
+  },
+  {
+    "name": "Kennedy",
+    "lat": 43.732487,
+    "lon": -79.263718
+  },
+  {
+    "name": "King",
+    "lat": 43.648449,
+    "lon": -79.377688
+  },
+  {
+    "name": "Kipling",
+    "lat": 43.637648,
+    "lon": -79.535694
+  },
+  {
+    "name": "Lansdowne",
+    "lat": 43.659246,
+    "lon": -79.442463
+  },
+  {
+    "name": "Lawrence",
+    "lat": 43.725348,
+    "lon": -79.40229
+  },
+  {
+    "name": "Lawrence West",
+    "lat": 43.715784,
+    "lon": -79.444038
+  },
+  {
+    "name": "Leslie",
+    "lat": 43.771348,
+    "lon": -79.36499
+  },
+  {
+    "name": "Main Street",
+    "lat": 43.689249,
+    "lon": -79.300686
+  },
+  {
+    "name": "Museum",
+    "lat": 43.667249,
+    "lon": -79.393389
+  },
+  {
+    "name": "North York Centre",
+    "lat": 43.767347,
+    "lon": -79.412492
+  },
+  {
+    "name": "Old Mill",
+    "lat": 43.649448,
+    "lon": -79.493392
+  },
+  {
+    "name": "Osgoode",
+    "lat": 43.651749,
+    "lon": -79.386888
+  },
+  {
+    "name": "Ossington",
+    "lat": 43.662349,
+    "lon": -79.42609
+  },
+  {
+    "name": "Pape",
+    "lat": 43.679949,
+    "lon": -79.344087
+  },
+  {
+    "name": "Pioneer Village",
+    "lat": 43.77675,
+    "lon": -79.509372
+  },
+  {
+    "name": "Queen",
+    "lat": 43.652149,
+    "lon": -79.379188
+  },
+  {
+    "name": "Queen's Park",
+    "lat": 43.660549,
+    "lon": -79.390689
+  },
+  {
+    "name": "Rosedale",
+    "lat": 43.676049,
+    "lon": -79.388089
+  },
+  {
+    "name": "Royal York",
+    "lat": 43.648548,
+    "lon": -79.508693
+  },
+  {
+    "name": "Runnymede",
+    "lat": 43.652049,
+    "lon": -79.474992
+  },
+  {
+    "name": "Sheppard West",
+    "lat": 43.750204,
+    "lon": -79.462781
+  },
+  {
+    "name": "Sheppard-Yonge",
+    "lat": 43.760348,
+    "lon": -79.410691
+  },
+  {
+    "name": "Sherbourne",
+    "lat": 43.672103,
+    "lon": -79.376162
+  },
+  {
+    "name": "Spadina",
+    "lat": 43.670249,
+    "lon": -79.405189
+  },
+  {
+    "name": "St Andrew",
+    "lat": 43.648249,
+    "lon": -79.385088
+  },
+  {
+    "name": "St Clair",
+    "lat": 43.687449,
+    "lon": -79.393089
+  },
+  {
+    "name": "St Clair West",
+    "lat": 43.685148,
+    "lon": -79.41589
+  },
+  {
+    "name": "St George",
+    "lat": 43.668249,
+    "lon": -79.399689
+  },
+  {
+    "name": "St Patrick",
+    "lat": 43.655249,
+    "lon": -79.388388
+  },
+  {
+    "name": "Summerhill",
+    "lat": 43.682049,
+    "lon": -79.390789
+  },
+  {
+    "name": "TMU",
+    "lat": 43.655949,
+    "lon": -79.380788
+  },
+  {
+    "name": "Union",
+    "lat": 43.645549,
+    "lon": -79.381488
+  },
+  {
+    "name": "Vaughan Metropolitan Centre",
+    "lat": 43.794021,
+    "lon": -79.527906
+  },
+  {
+    "name": "Victoria Park",
+    "lat": 43.695149,
+    "lon": -79.287885
+  },
+  {
+    "name": "Warden",
+    "lat": 43.712149,
+    "lon": -79.278785
+  },
+  {
+    "name": "Wellesley",
+    "lat": 43.664949,
+    "lon": -79.383488
+  },
+  {
+    "name": "Wilson",
+    "lat": 43.735048,
+    "lon": -79.450192
+  },
+  {
+    "name": "Woodbine",
+    "lat": 43.686649,
+    "lon": -79.312286
+  },
+  {
+    "name": "York Mills",
+    "lat": 43.743248,
+    "lon": -79.405991
+  },
+  {
+    "name": "York University",
+    "lat": 43.774097,
+    "lon": -79.499888
+  },
+  {
+    "name": "Yorkdale",
+    "lat": 43.725248,
+    "lon": -79.447692
+  }
+]
