@@ -33,43 +33,6 @@ A realtime TTC subway route planning application that combines GTFS transit data
 - TTC GTFS data
 - TTC GTFS-Realtime alerts
 
----
-
-## Project Structure
-
-```txt
-backend/
-  app/
-    api/
-      stations.py
-      trip.py
-
-    services/
-      gtfs_router.py
-      live_ttc_alerts.py
-
-  scripts/
-    build_station_dataset.py
-    build_subway_graph.py
-
-  main.py
-
-frontend/
-  app/
-    layout.tsx
-    page.tsx
-
-  components/
-    RouteMap.tsx
-
-data/
-  processed/
-    subway_graph.json
-    subway_stations.json
-```
-
----
-
 ## How It Works
 
 The backend builds a subway graph using TTC GTFS schedule data.
